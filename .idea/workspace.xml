@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4d4895c1-de74-4a8c-a87c-eb7675bc0353" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1k2ErkLOWgHifuDPLakguf3Uu0j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.jetbrains.php.phpunit.codeGeneration.PhpNewTestDialog.defaultLibrary" value="PHPUnit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Z:\henry\project\dataspring\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="Z:\henry\project\dataspring\utils" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ClientTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="MyGreeter\ClientTest" file="$PROJECT_DIR$/tests/ClientTest.php" scope="Class" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.ClientTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4d4895c1-de74-4a8c-a87c-eb7675bc0353" name="Default Changelist" comment="" />
+      <created>1604890487051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604890487051</updated>
+      <workItem from="1604890488317" duration="6964000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="454" key="FileChooserDialogImpl" timestamp="1604894991360">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="454" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1604894991360" />
+    <state x="1096" y="622" key="NewPhpFileDialog" timestamp="1604896273143">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1096" y="622" key="NewPhpFileDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604896273143" />
+    <state x="781" y="344" key="SettingsEditor" timestamp="1604890490369">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="344" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1604890490369" />
+    <state x="1049" y="505" key="com.jetbrains.php.test.PhpNewTestDialog" timestamp="1604894992017">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1049" y="505" key="com.jetbrains.php.test.PhpNewTestDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1604894992017" />
+  </component>
+</project>
