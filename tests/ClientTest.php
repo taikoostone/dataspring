@@ -28,6 +28,4 @@ class ClientTest extends TestCase
         );
     }
 
-    //phpunit --bootstrap src/Client.php tests/ClientTest.php
-
 }
