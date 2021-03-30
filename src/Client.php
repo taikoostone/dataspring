@@ -4,15 +4,6 @@ namespace MyGreeter;
 
 class Client
 {
-    public $instance;//当前类实例
-
-    /**
-     * Client constructor.
-     */
-    public function __construct()
-    {
-
-    }
 
     /**
      * @param string $timestamp 随机指定时间戳，默认当前时间戳
